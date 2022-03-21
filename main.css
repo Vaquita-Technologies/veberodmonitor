@@ -165,3 +165,8 @@ body {
     background-color: #222151!important;
     color: #F5AD45;
 }
+@media only screen and (min-device-width: 640px) {
+    .stationinfocontainer{
+        transform: translate(-15px,0px);
+    }
+}
