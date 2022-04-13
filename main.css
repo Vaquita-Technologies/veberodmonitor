@@ -170,3 +170,10 @@ body {
         transform: translate(-15px,0px);
     }
 }
+
+.mediaheader{
+    font-family: 'Abel', sans-serif;
+    font-size: 18px;    
+    margin-bottom: 5px;
+    text-align: center;
+}
